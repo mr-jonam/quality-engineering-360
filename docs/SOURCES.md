@@ -5,7 +5,8 @@ Reviewed on 26 October 2026.
 | Source | Use in this portfolio |
 | --- | --- |
 | [Manoj Rollo on LinkedIn](https://www.linkedin.com/in/manoj-rollo/) | Role, employer, enterprise-platform focus, hands-on automation/performance/API background and delivery coordination. |
-| [MRJonam91 profile README](https://github.com/MRJonam91/MRJonam91) | Existing public statement of 11+ years of professional experience; visual continuity as inspiration only. |
+| [MRJonam91 profile README](https://github.com/MRJonam91/MRJonam91) | Existing public statement of overall professional experience; visual continuity as inspiration only. |
+| Owner's direct clarification, 26 October 2026 | 11+ years in digital overall, including 6+ years in software testing and earlier development, design and digital communication work. |
 | [QA Express](https://github.com/MRJonam91/qa-express) | Reference for a clear public service portfolio, bilingual navigation and illustrative delivery material. Its pilot scope, prices and delivery promises do not apply here. |
 | [GitSkins](https://www.gitskins.com/) | Inspiration for profile hierarchy and a coherent visual identity. No template, illustration, portrait, source code or generated asset was copied. |
 | [Digital Quality Compass](https://github.com/mr-jonam/digital-quality-compass) | Complementary business-orientation resource linked by URL. No proprietary methods or delivery assets imported. |

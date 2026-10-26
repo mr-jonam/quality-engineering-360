@@ -60,7 +60,7 @@ Scope, staffing, access, deliverables, timing and commercial arrangements are ag
 
 ## The experience behind the conversation
 
-**Manoj Rollo** is a Senior Digital Test Engineer / Senior Consultant at **Concept Quality Reply**, focused on Digital Products & Platforms, with **11+ years of professional experience**.
+**Manoj Rollo** is a Senior Digital Test Engineer / Senior Consultant at **Concept Quality Reply**, focused on Digital Products & Platforms, with **11+ years in digital**, including **6+ years in software testing** and earlier experience in **development, design and digital communication**.
 
 His published professional background includes cross-platform automation, distributed **JMeter** load testing, **API testing**, **Selenium** and **Appium** suites integrated into CI/CD, plus coordination of teams and delivery engagements. His current enterprise-platform focus includes SAP, Salesforce, Dynamics 365 and ServiceNow.
 

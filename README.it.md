@@ -60,7 +60,7 @@ Perimetro, persone, accessi, deliverable, tempi e condizioni commerciali si conc
 
 ## L'esperienza alla base del confronto
 
-**Manoj Rollo** è Senior Digital Test Engineer / Senior Consultant in **Concept Quality Reply**, con focus su Digital Products & Platforms e **oltre 11 anni di esperienza professionale**.
+**Manoj Rollo** è Senior Digital Test Engineer / Senior Consultant in **Concept Quality Reply**, con focus su Digital Products & Platforms e **oltre 11 anni di esperienza nel digitale**, di cui **oltre 6 nel testing software**, preceduti da un percorso in **sviluppo, design e comunicazione digitale**.
 
 Il suo percorso professionale pubblico comprende automazione cross-platform, test di carico distribuiti con **JMeter**, **API testing**, suite **Selenium** e **Appium** integrate in CI/CD e coordinamento di team e commesse. Il focus attuale sulle piattaforme enterprise include SAP, Salesforce, Dynamics 365 e ServiceNow.
 

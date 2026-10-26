@@ -53,3 +53,12 @@ No signing key or public encryption recipient was configured for this task:
 no signature or encrypted identity envelope is claimed, and no key is generated.
 The manifest is an integrity/correlation record, not DRM or conclusive legal
 proof. Preserve it as the initial snapshot; later evidence should be additive.
+
+## Experience clarification — 26 October 2026
+
+The owner clarified directly that 11+ years refers to the overall digital
+career, including 6+ years in software testing and earlier development, design
+and digital communication work. Both language versions and the source record
+now state that distinction explicitly. Pre-publication component review:
+original documentation edits only; existing LICENSE and NOTICE remain applicable.
+No third-party content, dependency or change in rights was introduced.
