@@ -1,0 +1,82 @@
+{
+  "schema": "mr-jonam.public-integrity.v1",
+  "project_id": "7a3982e2-8f07-4212-9a75-bcc4e0540003",
+  "project_token": "IFXPFp68JB_OiDQN-MO4Ea6rr8UMe2lQQR_rrq2mn84",
+  "created_at": "2026-10-26T10:13:15.118Z",
+  "owner_ref": "mr-jonam",
+  "rights_profile": "restricted",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "source": {
+    "algorithm": "SHA-256",
+    "tree_digest": "e20f4c66d2190fb792044775cd16deba83628732e30ebde0db6f4c3055b0473c",
+    "digest_format": "Sorted UTF-8 relative paths, NUL byte, binary SHA-256 for each file; excludes .provenance/",
+    "tracked_file_count": 15,
+    "files": [
+      {
+        "path": ".gitattributes",
+        "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+      },
+      {
+        "path": ".gitignore",
+        "sha256": "3a704be9130c6bc0aaf0e65c862586f4bed97d5901080356af0cf796343c1fff"
+      },
+      {
+        "path": "AGENTS.md",
+        "sha256": "195e3844b0bce35b413a289da1d08823cecb9fac945040f191e93bf944e2ce31"
+      },
+      {
+        "path": "CONTACT.md",
+        "sha256": "9a1c3748274a81be0b9faf359b4feec4aebb2c950fd1c26acb024fa997df437d"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+      },
+      {
+        "path": "LICENSE-DECISION.md",
+        "sha256": "42a0a0425713bc919e23151ac20c7c5f445766d69ef1991fb006b2489d79d34c"
+      },
+      {
+        "path": "NOTICE",
+        "sha256": "ef88064589a144b7bc6295f2c1dd496b79db352063a6ea7c554f47ec189f56ca"
+      },
+      {
+        "path": "README.it.md",
+        "sha256": "ac6987c6ec3bd027acd06bbc71c4ee408f4a9f8c17423ad181b2ab466e3e4374"
+      },
+      {
+        "path": "README.md",
+        "sha256": "0c3d4507a5ce870b416153b644d06a0143195899e0b200f1831164e93323c0f8"
+      },
+      {
+        "path": "assets/hero-en.svg",
+        "sha256": "6756387155f850181a6bf490765dec3c2b8cf4434de093c2ca0206c60ac331db"
+      },
+      {
+        "path": "assets/hero-it.svg",
+        "sha256": "3ff29c470278b5a20a97e31f9d97aab36d842394c6aad1af100911d8dedac168"
+      },
+      {
+        "path": "docs/COLLABORATION.md",
+        "sha256": "1c99ab3e3724ee0b3fff6ba755b83bf2945d94ed8ef7ba9d58637c79f175ffdf"
+      },
+      {
+        "path": "docs/SHARE.md",
+        "sha256": "c7a96406d2cba8b67a4e6b0d2743b68f76359b363a853c08694cf0d8be422e19"
+      },
+      {
+        "path": "docs/SOURCES.md",
+        "sha256": "ff5006b09bfdc156cb68a6ebb1aef54e173056b91e19edc908cbd8de294316bd"
+      },
+      {
+        "path": "examples/ENGAGEMENT-BRIEF.md",
+        "sha256": "3eb90ef1f9297775f8a7fb5d8a6cc18789a41277a25c974ddaddd71c8fe6e7fa"
+      }
+    ]
+  },
+  "signature": null,
+  "encrypted_identity": null
+}

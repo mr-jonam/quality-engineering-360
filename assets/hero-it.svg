@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">Quality Engineering 360 — Più fiducia nel tuo business digitale.</title>
+<desc id="desc">Strategia di qualità, testing e supporto alla delivery per piattaforme enterprise. SAP, Salesforce, Microsoft Dynamics 365, ServiceNow.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#142c37"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#abc6cb" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="460" rx="22" fill="url(#bg)"/><rect width="1280" height="460" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#6ee7d0" stroke-opacity=".2"><circle cx="1130" cy="177" r="70"/><circle cx="1130" cy="177" r="106"/><path d="M1024 177h212M1130 71v212"/></g><circle cx="1130" cy="71" r="5" fill="#d6b981"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="52" y="65" font-size="16" letter-spacing="3" fill="#d6b981">QUALITY ENGINEERING 360</text>
+<text x="48" y="166" font-size="65" font-weight="700" letter-spacing="-2" fill="#f5f7fa">Più fiducia nel tuo</text>
+<text x="48" y="243" font-size="65" font-weight="700" letter-spacing="-2" fill="#6ee7d0">business digitale.</text>
+<text x="52" y="297" font-size="21" fill="#c3d1dc">Strategia di qualità, testing e supporto alla delivery per piattaforme enterprise.</text>
+<path d="M52 346H1228" stroke="#40505e"/>
+<text x="52" y="389" font-size="14" letter-spacing="1.5" fill="#d6b981">ASSESSMENT / DELIVERY / GOVERNANCE</text>
+<text x="1228" y="389" text-anchor="end" font-size="15" fill="#c3d1dc">MANOJ ROLLO / EN + IT</text>
+<text x="52" y="427" font-size="15" fill="#a5bac8">SAP · Salesforce · Microsoft Dynamics 365 · ServiceNow · Custom platforms</text>
+</g></svg>
